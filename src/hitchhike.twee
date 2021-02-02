@@ -1,0 +1,52 @@
+:: hitchhike 
+You stand on the side of the road, waiting for a car to emerge from the darkness. 
+
+You finally see a pair of headlights in the distance. 
+
+[[Put your thumb up|thumb]]
+
+:: thumb
+<<set $thumbup += 1>>\
+You put your thumb up and the car speeds past you with no intention of stopping.
+ 
+ So far it seems like no one wants to help you...
+ <<if visited() lt 2>>
+ You've put your thumb up <<print $thumbup>> time so far.
+ <</if>>\
+<<if visited() gt 1>>
+ You've put your thumb up <<print $thumbup>> times so far.
+<</if>>
+ You [[put your thumb down|thumb down]] and wait for the next person to come down the road.
+
+:: thumb down
+<<if visited() gt 1>>
+You begin to feel as though you'll be stuck here all night and contemplating spending the night at your job.
+
+Just then, however, another pair of headlights appear in the distance.
+<</if>>\
+<<if visited() lt 2>>
+As time passes by you begin to feel helpless and check your phone to see if anyone responded to your texts. No luck.
+
+Finally after some time, you see another pair of headlights emerging from the distance. 
+<</if>>
+<<if visited() lt 2>>\
+[[Put your thumb up|thumb]]
+<</if>>\
+<<if visited() gt 1>>\
+[[Put your thumb up|thumb up]]
+<</if>>
+
+:: thumb up
+You notice that the truck approaching you seems to be slowing down. You let out a sigh of relief.
+
+When the truck gets closer, you begin to back up from the road. The truck stops and a man rolls down his window.
+
+"Where you headed?" the man demanded.
+
+You have the address of the corner store closest to your house on your phone, and you show it to him. The man's face lights up.
+
+"I have to pass through that area. hop in!" the man chimed.
+
+He was kind of creepy. The wild look in his eyes makes you hesitate to hop in, but you really have no other choice and you're exhausted.
+
+You [[hop in]].

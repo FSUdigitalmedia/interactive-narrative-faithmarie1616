@@ -1,0 +1,23 @@
+:: StoryData
+{
+    "ifid": "89C719CD-D367-4621-B698-64E4ADE35545",
+    "format": "SugarCube",
+    "format-version": "2.34.1"
+}
+
+:: StoryTitle
+Hitchhiking
+
+:: StoryInit
+<<set $carspassed to 0>>
+<<set $thumbup to 0>>
+<<set $numberofcars to random(10)>>
+
+:: Start 
+You just finished working the night shift, but the coworker that was supposed to be taking over for you was 20 minutes late.
+
+Usually, you would take the bus home, however the next bus doesn't come for another hour and a half. 
+
+You text your friends and family, knowing that none of them would be up at this hour, but it doesn't hurt to try. 
+
+You can't walk home, as you're a 30 minute drive from your workplace. Your last resort is to [[hitchhike]].
