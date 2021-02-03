@@ -1,0 +1,68 @@
+:: keys
+You book it into the woods and shove the keys in your pocket. You hear the creaky doors of the man's truck and realize he's going after you. 
+
+Based on how fast the leaves are crunching, you know this man is moving fast, faster than you.
+
+[[Try and find a hiding spot|hide]]
+[[Try and outrun the man|outrun]]
+
+:: outrun 
+(go to back2truck passage but change a few words)
+
+:: hide 
+You find a huge bush and duck behind it. You breaths are heavy and you have to cover your mouth as to not make any noise.
+
+You can hear the footsteps in the distance getting louder and louder as the man gets closer to your hiding spot. Your heart's going a million miles a second and you hear him run right past you.
+
+[[Book it back to the truck|back2truck]]
+[[Wait until you no longer hear his footsteps|wait]]
+
+:: wait
+You decide to wait a little longer until you can no longer hear his footsteps and book it back to the truck. You realize that the man has your phone on his person, but there's really no way of you ever getting your phone back without a fight.
+
+You know there's no possibility of you winning said fight, so you drive down the what seems to be neverending road surrounded by woods.
+
+<div style="color:red">drive yourself ending</div> (changing these ending names later)
+
+:: back2truck
+You decide to run back to the truck a little too quickly and the man hears you and quickly changes direction. You probably would've been better off waiting a little longer before making your way back to the truck because you know he's faster than you.
+
+The man reaches you and tackles you to the ground. You try and fight him off of you but he's much heavier and stronger than you. That's when you remmeber the keys in your pocket.
+
+You manage to free your right hand and dig desperatly into your pocket in search for the keys. You yank them out of your pocket and jab the man right in the eye.
+
+The man falls over and covers his eye while screaming in agony. You take this as your chance and run as fast as possible back to the truck.
+
+When you get to the truck you try and search for your phone, only to realize the man has it on him. You have no idea where you are and have no way of calling the police without your phone.
+
+[[Try and retrieve your phone from the man while he's injured|getphone]]
+[[Forget your phone and drive aimlessly|drive]]
+
+:: drive
+You question why you even considered retrieveing your phone and hop in the truck. You drive down the what seems to be neverending road surrounded by woods.
+
+<div style="color:red">drive yourself ending</div> (changing these ending names later)
+
+:: getphone
+You decide that your phone is essential in this situation and risk your life to go back and retrieve it.
+
+When you arrive at the spot where you jabbed him in the eye, he's nowhere to be found. Suddenly you hear a twig snap in the distance.
+
+[[Book it back to the truck|book2truck]]
+[[Dive behind the nearest bush|dive]]
+
+:: book2truck
+You seem to have not learn your lesson the first time and when the man hears your footsteps he begins chasing you once again. However, when he tackles you this time he has a switchblade in his hand.
+
+You try to fight your way off of him again, but fail and the man kills you with the switchblade.
+
+<div style="color:red">death ending</div> (changing these ending names later)
+
+:: dive
+You realize the mistake you made the first time and hide behind the nearest bush. You hear the man going in the direction you came from. You decide it's not safe to go back to the truck and walk parallel to the road in the woods.
+
+After walking for what seems like forever, you see a light in the distance. Upon getting closer, you realize it's a gas station and let out a sigh of relief.
+
+After using their phone to call the police, you're escorted home.
+
+<div style="color:red">police escort ending</div> (changing these ending names later)
