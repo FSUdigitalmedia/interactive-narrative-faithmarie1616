@@ -7,7 +7,18 @@ Based on how fast the leaves are crunching, you know this man is moving fast, fa
 [[Try and outrun the man|outrun]]
 
 :: outrun 
-(go to back2truck passage but change a few words)
+You attempt to outrun and lose him in the woods by running as fast as you can. You didn't think this plan through at all and as you're running you begin to hear his footsteps grow louder.
+
+The man reaches you and tackles you to the ground. You try and fight him off of you but he's much heavier and stronger than you. That's when you remmeber the keys in your pocket.
+
+You manage to free your right hand and dig desperatly into your pocket in search for the keys. You yank them out of your pocket and jab the man right in the eye.
+
+The man falls over and covers his eye while screaming in agony. You take this as your chance and run as fast as possible back to the truck.
+
+When you get to the truck you try and search for your phone, only to realize the man has it on him. You have no idea where you are and have no way of calling the police without your phone.
+
+[[Try and retrieve your phone from the man while he's injured|getphone]]
+[[Forget your phone and drive aimlessly|drive]]
 
 :: hide 
 You find a huge bush and duck behind it. You breaths are heavy and you have to cover your mouth as to not make any noise.
@@ -25,7 +36,7 @@ You know there's no possibility of you winning said fight, so you drive down the
 <div style="color:red">drive yourself ending</div> (changing these ending names later)
 
 :: back2truck
-You decide to run back to the truck a little too quickly and the man hears you and quickly changes direction. You probably would've been better off waiting a little longer before making your way back to the truck because you know he's faster than you.
+You decide to run back to the truck a little too quickly and the man hears you and begins chasing you down. You probably would've been better off waiting a little longer before making your way back to the truck because you know he's faster than you.
 
 The man reaches you and tackles you to the ground. You try and fight him off of you but he's much heavier and stronger than you. That's when you remmeber the keys in your pocket.
 
