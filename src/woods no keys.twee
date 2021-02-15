@@ -13,7 +13,7 @@ The man reaches you and tackles you to the ground. You try and fight him off of 
 
 Unable to defend yourself, the man succeeds in kidnapping you.
 
-<div style="color:red">kidnapped ending</div> (changing these ending names later)
+<div style="color:red">kidnapped ending</div>
 
 :: hidenokeys 
 You find a huge bush and duck behind it. You breaths are heavy and you have to cover your mouth as to not make any noise.
@@ -30,7 +30,7 @@ The man reaches you and tackles you to the ground. You try and fight him off of 
 
 Unable to defend yourself, the man succeeds in kidnapping you.
 
-<div style="color:red">kidnapped ending</div> (changing these ending names later)
+<div style="color:red">kidnapped ending</div>
 
 :: waitnokeys
 You decide to wait a little longer until you can no longer hear his footsteps and book it back to the truck. Once you reach the truck, you're unable to find the keys.
@@ -39,4 +39,4 @@ You decide to run into the woods on the opposite side and run parralell to the r
 
 (might make this a different ending or have it branch out into new endings)
 
-<div style="color:red">police escort ending (for now)</div> (changing these ending names later)
+<div style="color:red">escort ending (for now)</div>

@@ -33,7 +33,7 @@ You decide to wait a little longer until you can no longer hear his footsteps an
 
 You know there's no possibility of you winning said fight, so you drive down the what seems to be neverending road surrounded by woods.
 
-<div style="color:red">drive yourself ending</div> (changing these ending names later)
+<div style="color:red">driven ending</div>
 
 :: back2truck
 You decide to run back to the truck a little too quickly and the man hears you and begins chasing you down. You probably would've been better off waiting a little longer before making your way back to the truck because you know he's faster than you.
@@ -52,7 +52,7 @@ When you get to the truck you try and search for your phone, only to realize the
 :: drive
 You question why you even considered retrieveing your phone and hop in the truck. You drive down the what seems to be neverending road surrounded by woods.
 
-<div style="color:red">drive yourself ending</div> (changing these ending names later)
+<div style="color:red">driven ending</div>
 
 :: getphone
 You decide that your phone is essential in this situation and risk your life to go back and retrieve it.
@@ -67,7 +67,7 @@ You seem to have not learn your lesson the first time and when the man hears you
 
 You try to fight your way off of him again, but fail and the man kills you with the switchblade.
 
-<div style="color:red">death ending</div> (changing these ending names later)
+<div style="color:red">death ending</div>
 
 :: dive
 You realize the mistake you made the first time and hide behind the nearest bush. You hear the man going in the direction you came from. You decide it's not safe to go back to the truck and walk parallel to the road in the woods.
@@ -76,4 +76,4 @@ After walking for what seems like forever, you see a light in the distance. Upon
 
 After using their phone to call the police, you're escorted home.
 
-<div style="color:red">police escort ending</div> (changing these ending names later)
+<div style="color:red">escort ending</div>
