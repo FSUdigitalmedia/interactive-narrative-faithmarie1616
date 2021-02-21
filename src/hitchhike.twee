@@ -1,11 +1,49 @@
-:: hitchhike 
+:: hitchhike
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://i.redd.it/jkeb9oanv77x.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You stand on the side of the road, waiting for a car to emerge from the darkness. 
 
-You finally see a pair of headlights in the distance. 
+You finally see a pair of headlights in the distance.
 
 [[Put your thumb up|thumb]]
 
 :: thumb
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://i.redd.it/jkeb9oanv77x.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 <<set $thumbup += 1>>\
 You put your thumb up and the car speeds past you with no intention of stopping.
  
@@ -19,6 +57,25 @@ You put your thumb up and the car speeds past you with no intention of stopping.
  You [[put your thumb down|thumb down]] and wait for the next person to come down the road.
 
 :: thumb down
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://i.redd.it/jkeb9oanv77x.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 <<if visited() gt 1>>
 You begin to feel as though you'll be stuck here all night and contemplating spending the night at your job.
 
@@ -37,6 +94,25 @@ Finally after some time, you see another pair of headlights emerging from the di
 <</if>>
 
 :: thumb up
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://www.civicx.com/forum/attachments/_dsc7969_001-jpg.63130/);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You notice that the truck approaching you seems to be slowing down. You let out a sigh of relief.
 
 When the truck gets closer, you begin to back up from the road. The truck stops and a man rolls down his window.

@@ -1,4 +1,23 @@
 :: hop in
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://i.pinimg.com/originals/59/a1/ce/59a1ce9367590d72d682328d6387c450.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You enter the truck and are immediately begin to feel as if something isn't right. 
 
 "Make yourself comfortable." the man proposed. 
@@ -12,6 +31,25 @@ You let out a nervous chuckle and try to relax. Maybe this guy is actually just 
 After fighting a long battle with your eyes, you eventually lose and [[fall asleep]].
 
 :: fall asleep
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18ece8bb-a01b-49bd-81f1-2a11b1f178be/d2bk5c5-a36ce7b5-254b-4efa-b3c5-9bacc4077c58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMThlY2U4YmItYTAxYi00OWJkLTgxZjEtMmExMWIxZjE3OGJlXC9kMmJrNWM1LWEzNmNlN2I1LTI1NGItNGVmYS1iM2M1LTliYWNjNDA3N2M1OC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.gHPBLboYiHfE2x7NGf4HOQwnD9sgMJhEqX_iRoYKwvo);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You're suddently jolted awake when the truck hits a bump. 
 
 Your surroundings look...very off from what they should look like. Either this man is taking a shortcut, got lost, or is intentionally going in the wrong direction. 
@@ -20,6 +58,25 @@ Your surroundings look...very off from what they should look like. Either this m
 [[Ask the man where you are|ask]]
 
 :: text
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18ece8bb-a01b-49bd-81f1-2a11b1f178be/d2bk5c5-a36ce7b5-254b-4efa-b3c5-9bacc4077c58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMThlY2U4YmItYTAxYi00OWJkLTgxZjEtMmExMWIxZjE3OGJlXC9kMmJrNWM1LWEzNmNlN2I1LTI1NGItNGVmYS1iM2M1LTliYWNjNDA3N2M1OC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.gHPBLboYiHfE2x7NGf4HOQwnD9sgMJhEqX_iRoYKwvo);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You pull out your phone to text your friends about what's going on. You're beating yourself up because you didn't think to tell anyone that you were hitchiking in the first palce.
 
 "What are you doing?" the man questioned.
@@ -31,6 +88,25 @@ The man can see right through your lie and snatches your phone out of your hands
 You begin to feel helpless, as you thought your phone was your only possible way of escaping this situation alive. YOu begin to feel [[nauseous]].
 
 :: ask 
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18ece8bb-a01b-49bd-81f1-2a11b1f178be/d2bk5c5-a36ce7b5-254b-4efa-b3c5-9bacc4077c58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMThlY2U4YmItYTAxYi00OWJkLTgxZjEtMmExMWIxZjE3OGJlXC9kMmJrNWM1LWEzNmNlN2I1LTI1NGItNGVmYS1iM2M1LTliYWNjNDA3N2M1OC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.gHPBLboYiHfE2x7NGf4HOQwnD9sgMJhEqX_iRoYKwvo);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 "Uh, where are we?" 
 
 The man ignores you and continues driving as if you didn't say anything. 
@@ -39,6 +115,25 @@ The man ignores you and continues driving as if you didn't say anything.
 [[Text your friends about the situation|text]]
 
 :: ask again
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18ece8bb-a01b-49bd-81f1-2a11b1f178be/d2bk5c5-a36ce7b5-254b-4efa-b3c5-9bacc4077c58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMThlY2U4YmItYTAxYi00OWJkLTgxZjEtMmExMWIxZjE3OGJlXC9kMmJrNWM1LWEzNmNlN2I1LTI1NGItNGVmYS1iM2M1LTliYWNjNDA3N2M1OC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.gHPBLboYiHfE2x7NGf4HOQwnD9sgMJhEqX_iRoYKwvo);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 "Um sir...you're going the wrong way."
 
 A grin begins to form on the man's face, but then quickly disappears. He then proceeds to go on a tangent about how much he hates hitchikers and how they're freeloaders.
@@ -46,6 +141,25 @@ A grin begins to form on the man's face, but then quickly disappears. He then pr
 You're instantly taken aback and begin to feel [[nauseous]].
 
 :: nauseous
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18ece8bb-a01b-49bd-81f1-2a11b1f178be/d2bk5c5-a36ce7b5-254b-4efa-b3c5-9bacc4077c58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMThlY2U4YmItYTAxYi00OWJkLTgxZjEtMmExMWIxZjE3OGJlXC9kMmJrNWM1LWEzNmNlN2I1LTI1NGItNGVmYS1iM2M1LTliYWNjNDA3N2M1OC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.gHPBLboYiHfE2x7NGf4HOQwnD9sgMJhEqX_iRoYKwvo);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 As you feel vomit coming up your throat, you quickly try and come up with a plan to escape the man. 
 
 The truck is going too fast for you to simply tuck and roll. You decide to do what came to your mind first and turn towards the man. He sees that you're about to vomit and begins to scoot away from you while slowing down the truck.

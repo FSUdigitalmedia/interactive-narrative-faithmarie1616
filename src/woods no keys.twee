@@ -1,4 +1,23 @@
 :: no keys
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://lh3.googleusercontent.com/proxy/gr5VSCHTfR8k23nUAaY1Jw1ptfJa8KtR1gP5_5NIM826Oc9pI8Vi7lG1bnwUCUn1F52huSuCT4T0ApJeBykUSeaOSCJmj93unARArx2TWYex9VlWMakxUMNW7Bs);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You hear the creaky doors of the man's truck and realize he's going after you. 
 
 Based on how fast the leaves are crunching, you know this man is moving fast, faster than you.
@@ -7,6 +26,25 @@ Based on how fast the leaves are crunching, you know this man is moving fast, fa
 [[Try and outrun the man|outrunnokeys]]
 
 :: outrunnokeys
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://lh3.googleusercontent.com/proxy/gr5VSCHTfR8k23nUAaY1Jw1ptfJa8KtR1gP5_5NIM826Oc9pI8Vi7lG1bnwUCUn1F52huSuCT4T0ApJeBykUSeaOSCJmj93unARArx2TWYex9VlWMakxUMNW7Bs);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You attempt to outrun and lose him in the woods by running as fast as you can. You didn't think this plan through at all and as you're running you begin to hear his footsteps grow louder.
 
 The man reaches you and tackles you to the ground. You try and fight him off of you but he's much heavier and stronger than you.
@@ -16,6 +54,25 @@ Unable to defend yourself, the man succeeds in kidnapping you.
 <div style="color:red">kidnapped ending</div>
 
 :: hidenokeys 
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://lh3.googleusercontent.com/proxy/gr5VSCHTfR8k23nUAaY1Jw1ptfJa8KtR1gP5_5NIM826Oc9pI8Vi7lG1bnwUCUn1F52huSuCT4T0ApJeBykUSeaOSCJmj93unARArx2TWYex9VlWMakxUMNW7Bs);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You find a huge bush and duck behind it. You breaths are heavy and you have to cover your mouth as to not make any noise.
 
 You can hear the footsteps in the distance getting louder and louder as the man gets closer to your hiding spot. Your heart's going a million miles a second and you hear him run right past you.
@@ -24,6 +81,25 @@ You can hear the footsteps in the distance getting louder and louder as the man 
 [[Wait until you no longer hear his footsteps|waitnokeys]]
 
 :: back2trucknokeys
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://lh3.googleusercontent.com/proxy/gr5VSCHTfR8k23nUAaY1Jw1ptfJa8KtR1gP5_5NIM826Oc9pI8Vi7lG1bnwUCUn1F52huSuCT4T0ApJeBykUSeaOSCJmj93unARArx2TWYex9VlWMakxUMNW7Bs);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You decide to run back to the truck a little too quickly and the man hears you and quickly changes direction. You probably would've been better off waiting a little longer before making your way back to the truck because you know he's faster than you.
 
 The man reaches you and tackles you to the ground. You try and fight him off of you but he's much heavier and stronger than you.
@@ -33,6 +109,25 @@ Unable to defend yourself, the man succeeds in kidnapping you.
 <div style="color:red">kidnapped ending</div>
 
 :: waitnokeys
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://lh3.googleusercontent.com/proxy/gr5VSCHTfR8k23nUAaY1Jw1ptfJa8KtR1gP5_5NIM826Oc9pI8Vi7lG1bnwUCUn1F52huSuCT4T0ApJeBykUSeaOSCJmj93unARArx2TWYex9VlWMakxUMNW7Bs);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
 You decide to wait a little longer until you can no longer hear his footsteps and book it back to the truck. Once you reach the truck, you're unable to find the keys.
 
 You decide to run into the woods on the opposite side and run parralell to the road until you find a gas station and phone the police.
