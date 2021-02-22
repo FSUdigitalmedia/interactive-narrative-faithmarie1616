@@ -1,2 +1,2 @@
-# interactive-narrative-faithmarie1616
-interactive-narrative-faithmarie1616 created by GitHub Classroom
+# Hitchhiking
+Link to the game: https://fsudigitalmedia.github.io/interactive-narrative-faithmarie1616/
