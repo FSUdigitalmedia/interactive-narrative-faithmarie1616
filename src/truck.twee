@@ -14,19 +14,22 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+p {
+	background-color: black 
+	}
 </style>
 </head>
 </html>
 
-You enter the vehicle and are immediately begin to feel as if something isn't right. 
+<p>You enter the vehicle and are immediately begin to feel as if something isn't right.</p>\
 
-"Make yourself comfortable." the man proposed. 
+<p>"Make yourself comfortable." the man proposed.</p>\
 
-There's no way you're going to 'get comfortable' and let your guard down in this creepy man's car. You try to not make it so obvious that you're on edge, but your body language catches the man's attenton.
+<p>There's no way you're going to 'get comfortable' and let your guard down in this creepy man's car. You try to not make it so obvious that you're on edge, but your body language catches the man's attenton.</p>\
 
-"Don't be so tense. Try and relax." the man proposes.
+<p>"Don't be so tense. Try and relax." the man proposes.</p>\
 
-You let out a nervous chuckle and try to relax. Maybe this guy is actually just a nice guy and not [[some serial killer]].
+<p>You let out a nervous chuckle and try to relax. Maybe this guy is actually just a nice guy and not [[some serial killer]].</p>\
 
 :: some serial killer
 <html>
@@ -44,15 +47,18 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+p {
+	background-color: black 
+	}
 </style>
 </head>
 </html>
 
-As you and the man exchange small talk, the rain begins to fall once more. 
+<p>As you and the man exchange small talk, the rain begins to fall once more.</p>\
 
-You begin to get a little too comfortable, as your eyes begin to get droopy.
+<p>You begin to get a little too comfortable, as your eyes begin to get droopy.</p>\
 
-After fighting a long battle with your eyes, you eventually lose and [[fall asleep]].
+<p>After fighting a long battle with your eyes, you eventually lose and [[fall asleep]].</p>\
 
 :: fall asleep
 <html>
@@ -110,7 +116,7 @@ Your phone is now at 1% as you frantically text your family and friends.
 
 The man can see right through your lie and snatches your phone out of your hands.
 
-You begin to feel helpless, as you thought your phone was your only possible way of escaping this situation alive. YOu begin to feel [[nauseous]].
+You begin to feel helpless, as you thought your phone was your only possible way of escaping this situation alive. You begin to feel [[nauseous]].
 
 :: nauseous
 <html>

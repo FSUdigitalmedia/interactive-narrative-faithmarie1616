@@ -76,12 +76,12 @@ body{
 </head>
 </html>
 
-<<if visited() gt 1>>
+<<if visited() gt 1>>\
 You begin to feel as though you'll be stuck here all night and contemplating spending the night at your job.
 
 Just then, however, another pair of headlights appear in the distance.
 <</if>>\
-<<if visited() lt 2>>
+<<if visited() lt 2>>\
 As time passes by you begin to feel helpless and check your phone to see if anyone responded to your text messages or phone calls. No luck. Your phone is now at 12%.
 
 Finally after some time, you see another pair of headlights emerging from the distance. 

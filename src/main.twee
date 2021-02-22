@@ -29,17 +29,20 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+p {
+	background-color: black 
+	}
 </style>
 </head>
 </html>
 
-You're working the night shift at an old gas station on a rainy night. 
+<p>You're working the night shift at an old gas station on a rainy night.</p>\
 
-You constantly question why you still work here, but it's the only place that took you in. I mean you had no experience after all, but the more shifts you work the more you realize how horrible and unsafe this job was.
+<p>You constantly question why you still work here, but it's the only place that took you in. I mean you had no experience after all, but the more shifts you work the more you realize how horrible and unsafe this job was.</p>\
 
-When you applied, you were desperate, as you were at risk of getting evicted. In order to increase your chances of getting hired, you stated on your application that you could work at any time during any day of the week. 
+<p>When you applied, you were desperate, as you were at risk of getting evicted. In order to increase your chances of getting hired, you stated on your application that you could work at any time during any day of the week.</p>\
 
-As a result, your manager took that and ran with it, now it's your 5th day in a row working the [[night shift]].
+<p>As a result, your manager took that and ran with it, now it's your 5th day in a row working the [[night shift]].</p>
 
 :: night shift
 <html>
@@ -57,15 +60,18 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+p {
+	background-color: black 
+	}
 </style>
 </head>
 </html>
 
-The end of your shift is almost here, and you head over to your phone that's charging in the break room, only to find out it wasn't charging that entire time. Your phone battery is incredibly damaged, but it would be too costly to replace it so it constantly needs to be plugged in. 
+<p>The end of your shift is almost here, and you head over to your phone that's charging in the break room, only to find out it wasn't charging that entire time. Your phone battery is incredibly damaged, but it would be too costly to replace it so it constantly needs to be plugged in.</p>\ 
 
-You plug your phone in and have to turn the cord in a specific direction in order for it to work, otherwise it won't charge.
+<p>You plug your phone in and have to turn the cord in a specific direction in order for it to work, otherwise it won't charge.</p>\
 
-You head back to the front of the store and watch your last 5 minutes go by with ease. However, once those 5 minutes go by, the person taking over after your shift is [[nowhere in sight|sight]]. 
+<p>You head back to the front of the store and watch your last 5 minutes go by with ease. However, once those 5 minutes go by, the person taking over after your shift is [[nowhere in sight|sight]].</p>\
 
 :: sight
 <html>
@@ -83,15 +89,18 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+p {
+	background-color: black 
+	}
 </style>
 </head>
 </html>
 
-You have no choice but to continue working until your coworker takes over for you, but you only have about 10 minutes that you can spare before the bus you take home leaves. After that bus, there's not another one for hours. 
+<p>You have no choice but to continue working until your coworker takes over for you, but you only have about 10 minutes that you can spare before the bus you take home leaves. After that bus, there's not another one for hours.</p>\
 
-You've been working 5 minutes over and still don't see any sign of your coworker, you begin to get nervous as the minutes go by.
+<p>You've been working 5 minutes over and still don't see any sign of your coworker, you begin to get nervous as the minutes go by.</p>\
 
-When you're 7 minutes over and still see no sign of your coworker, you try and phone your manager only to no avail. You find yourself stuck, [[unable to move]]. 
+<p>When you're 7 minutes over and still see no sign of your coworker, you try and phone your manager only to no avail. You find yourself stuck, [[unable to move]].</p>\
 
 :: unable to move
 <html>
@@ -109,15 +118,18 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+p {
+	background-color: black 
+	}
 </style>
 </head>
 </html>
 
-As you wait the rain begins to die down. At least something good is coming out of this.
+<p>As you wait the rain begins to die down. At least something good is coming out of this.</p>\
 
-Suddenly, a vehicle drives into the gas station and you leap up hoping it's finally your coworker, only for them to pull up to a pump. A family hops out of the SUV and while the mother pumps the gas, the rest of the family head inside. 
+<p>Suddenly, a vehicle drives into the gas station and you leap up hoping it's finally your coworker, only for them to pull up to a pump. A family hops out of the SUV and while the mother pumps the gas, the rest of the family head inside.</p>\
 
-As you're trying to take care of this family, you can't help but think of the possible options if you miss your bus. As the SUV pulls off you look at the clock and realize that you've been working 12 minutes over, your [[heart drops]]. 
+<p>As you're trying to take care of this family, you can't help but think of the possible options if you miss your bus. As the SUV pulls off you look at the clock and realize that you've been working 12 minutes over, your [[heart drops]].</p>\
 
 :: heart drops
 <html>
@@ -135,14 +147,17 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+p {
+	background-color: black 
+	}
 </style>
 </head>
 </html>
 
-Finally, after 20 minutes your coworker pulls into the carpark and runs inside. You're about to chew them out but they quickly begin apologizing profusely for being so late. 
+<p>Finally, after 20 minutes your coworker pulls into the carpark and runs inside. You're about to chew them out but they quickly begin apologizing profusely for being so late.</p>\
 
-They explain that a close relative was hosiptalized and that his family was going through some tough troubles. You apologize for his family troubles and head to the break room to grab your phone and charger only to realize that it wasnt charging again. 
+<p>They explain that a close relative was hosiptalized and that his family was going through some tough troubles. You apologize for his family troubles and head to the break room to grab your phone and charger only to realize that it wasnt charging again.</p>\
 
-As your phone sits at a measly 15%, you try and contact your closest friends and relatives hoping that someone will answer. Understandibly, none of them answer due to it being at dead of night. 
+<p>As your phone sits at a measly 15%, you try and contact your closest friends and relatives hoping that someone will answer. Understandibly, none of them answer due to it being at dead of night.</p>\
 
-You can't walk home, as you live miles away from your job. Desperate, you decide to [[hitchhike]].
+<p>You can't walk home, as you live miles away from your job. Desperate, you decide to [[hitchhike]].</p>\
