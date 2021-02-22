@@ -13,7 +13,34 @@ Hitchhiking
 <<set $thumbup to 0>>
 <<set $numberofcars to random(10)>>
 
+:: UserScript[script]
+UIBar.destroy()
+
 :: Start 
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:100%;
+	margin:0;
+	background-image: url(https://cdna.artstation.com/p/media_assets/images/images/000/458/236/large/HighresScreenshot00032.jpg?1561908214);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
+!HITCHHIKING
+
+[[New Game]]
+
+:: New Game
 <html>
 <head>
 <style type="text/css">
