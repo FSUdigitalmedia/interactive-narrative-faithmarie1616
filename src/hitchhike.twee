@@ -18,9 +18,9 @@ body{
 </head>
 </html>
 
-You stand on the side of the road, waiting for a car to emerge from the darkness. 
+You walk over to the side of the road directly under a street light and nervously wait for someone to pass you. 
 
-You finally see a pair of headlights in the distance.
+A couple minutes pass by as you wait for headlights to emerge from the darkness while you're constantly checking your surroundings. You finally see a pair of headlights in the distance.
 
 [[Put your thumb up|thumb]]
 
@@ -82,7 +82,7 @@ You begin to feel as though you'll be stuck here all night and contemplating spe
 Just then, however, another pair of headlights appear in the distance.
 <</if>>\
 <<if visited() lt 2>>
-As time passes by you begin to feel helpless and check your phone to see if anyone responded to your texts. No luck.
+As time passes by you begin to feel helpless and check your phone to see if anyone responded to your text messages or phone calls. No luck. Your phone is now at 12%.
 
 Finally after some time, you see another pair of headlights emerging from the distance. 
 <</if>>
@@ -113,11 +113,36 @@ body{
 </head>
 </html>
 
-You notice that the truck approaching you seems to be slowing down. You let out a sigh of relief.
+You notice that the vehicle approaching you seems to be slowing down. You let out a sigh of relief.
 
-When the truck gets closer, you begin to back up from the road. The truck stops and a man rolls down his window.
+When the vehicle gets closer, you begin to back up from the road. The vehicle stops and a man rolls down his window.
 
 "Where you headed?" the man demanded.
+
+This man gave you an immediate bad feeling, and you would honestly prefer a woman pick you up. However, should you really be this picky in this situation?
+
+[[Be picky]]
+[[Just go with the man]]
+
+:: Just go with the man
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://www.civicx.com/forum/attachments/_dsc7969_001-jpg.63130/);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
 
 You have the address of the corner store closest to your house on your phone, and you show it to him. The man's face lights up.
 
@@ -126,3 +151,148 @@ You have the address of the corner store closest to your house on your phone, an
 He was kind of creepy. The wild look in his eyes makes you hesitate to hop in, but you really have no other choice and you're exhausted.
 
 You [[hop in]].
+
+:: Be picky
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://www.civicx.com/forum/attachments/_dsc7969_001-jpg.63130/);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
+You decide to go with your gut and quickly think of a lie to get this man to drive off. You act like you just recieved a text message and quickly look back up at the man.
+
+"Oh sorry, my boyfriend finally texted me back and said he'd pick me up soon. Thanks for stopping though!"
+
+The man just stares at you, then simply murmurs, "No problem." and speeds off into the [[darkness]].
+
+:: darkness
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://i.redd.it/jkeb9oanv77x.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
+You feel bad for quickly judging the man like that, but it's better to be safe than sorry.
+
+You stand there for what seems like forever before the next pair of headlights emerge from the darkness.
+
+[[Put your thumb up|thumb up picky]]
+
+:: thumb up picky
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://i.redd.it/jkeb9oanv77x.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
+<<set $thumbup += 1>>\
+Just like before, this vehicle zooms right past you.
+
+You've put your thumb up <<print $thumbup>> times so far.
+
+You put your thumb down and begin to regret rejecting that man earlier as time goes by.
+
+It's been about an hour and you consider heading back to the gas station, but you see a pair of headlights coming from the [[other direction]]. 
+
+:: other direction
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://i.redd.it/jkeb9oanv77x.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
+You haven't put your thumb up for anyone coming from that direction because they're heading in the opposite direction from where you need to go.
+
+You check your phone to see what time it is and you see that an hour and 10 minutes have passed by since you first began hitchhiking. Your phone's now at 7% despite you not using it.
+
+As you begin to turn and head back to the gas station in shame, you hear the vehicle coming from the other direction [[slow down]].
+
+:: slow down
+<html>
+<head>
+<style type="text/css">
+body{
+	/* [disabled]background-color:#000000; */
+	color:#FFF;
+	font-family:Verdana,sans-serif;
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+	font-size:80%;
+	margin:0;
+	background-image: url(https://www.civicx.com/forum/attachments/_dsc7969_001-jpg.63130/);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+</head>
+</html>
+
+You continue walking and slowly turn around only to see a vehicle that looks oddly familar. As the window rolls down your heart drops as the realization sets in.
+
+The same man that you lied to before rolls down his window and looks at you with a confused face.
+
+"You still out here?" asked the man.
+
+You nervously turn towards the man and stick with the lie you told him before.
+
+"Yeah, my boyfriend's car broke down on the way here." You immediately regret saying that and the man begins to take on a worried look.
+
+"I was just heading back from town, but I wouldn't mind giving you a ride." the man claims. 
+
+You begin to feel bad that you're going to wast ethis man's time, but you really have no other choice.
+
+"Are you sure? I don't want to waste your gas or time."
+
+The man chuckles and reassures you that it's not a problem. He then asks [[where you're headed|Just go with the man]].
