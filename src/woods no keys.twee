@@ -1,4 +1,5 @@
 :: no keys
+<<audio "insidecar" stop>>\
 <<audio "opendoor" play>>\
 <<audio "outside" volume 0 fadeto 0.75>>\
 <<audio "outside" loop play>>\
