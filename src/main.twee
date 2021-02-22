@@ -12,17 +12,17 @@ Hitchhiking
 <<set $carspassed to 0>>
 <<set $thumbup to 0>>
 <<set $numberofcars to random(10)>>
-<<cacheaudio "gasstation" "../assets/gas station music.mp3">>
-<<cacheaudio "rain" "../assets/rain.mp4">>
-<<cacheaudio "door" "../assets/door open.mp4">>
-<<cacheaudio "outside" "../assets/outside.mp4">>
-<<cacheaudio "pass" "../assets/car pass.mp4">>
-<<cacheaudio "pullup" "../assets/car pull up.mp4">>
-<<cacheaudio "pulloff" "../assets/car pull off.mp4">>
-<<cacheaudio "openclosedoor" "../assets/open and close door.mp4">>
-<<cacheaudio "insidecar" "../assets/driving inside car.mp4">>
-<<cacheaudio "opendoor" "../assets/car door open.mp4">>
-<<cacheaudio "carrain" "../assets/rain in car.mp4">>
+<<cacheaudio "gasstation" "assets/gas station music.mp3">>
+<<cacheaudio "rain" "assets/rain.mp3">>
+<<cacheaudio "door" "assets/door open.mp3">>
+<<cacheaudio "outside" "assets/outside.mp3">>
+<<cacheaudio "pass" "assets/car pass.mp3">>
+<<cacheaudio "pullup" "assets/car pull up.mp3">>
+<<cacheaudio "pulloff" "assets/car pull off.mp3">>
+<<cacheaudio "openclosedoor" "assets/open and close door.mp3">>
+<<cacheaudio "insidecar" "assets/driving inside car.mp3">>
+<<cacheaudio "opendoor" "assets/car door open.mp3">>
+<<cacheaudio "carrain" "assets/rain in car.mp3">>
 
 :: UserScript[script]
 UIBar.stow()
