@@ -1,4 +1,7 @@
 :: hop in
+<<audio "openclosedoor" volume 0.5 play>>\
+<<audio "insidecar" volume 0.75 loop play>>\
+<<audio "outside" volume 0.75 fadeout>>\
 <html>
 <head>
 <style type="text/css">
@@ -32,6 +35,7 @@ p {
 <p>You let out a nervous chuckle and try to relax. Maybe this guy is actually just a nice guy and not [[some serial killer]].</p>\
 
 :: some serial killer
+<<audio "carrain" volume 0 fadeto 0.25>>\
 <html>
 <head>
 <style type="text/css">
@@ -61,6 +65,7 @@ p {
 <p>After fighting a long battle with your eyes, you eventually lose and [[fall asleep]].</p>\
 
 :: fall asleep
+<<audio "carrain" stop>>\
 <html>
 <head>
 <style type="text/css">

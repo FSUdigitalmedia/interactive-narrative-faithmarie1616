@@ -1,4 +1,8 @@
 :: hitchhike
+<<audio "gasstation" volume 1.00 fadeout>>\
+<<audio "door" volume 0.5 play>>\
+<<audio "outside" volume 0 fadeto 0.75>>\
+<<audio "outside" loop play>>\
 <html>
 <head>
 <style type="text/css">
@@ -25,6 +29,7 @@ A couple minutes pass by as you wait for headlights to emerge from the darkness 
 [[Put your thumb up|thumb]]
 
 :: thumb
+<<audio "pass" volume 0.5 play>>\
 <html>
 <head>
 <style type="text/css">
@@ -94,6 +99,7 @@ Finally after some time, you see another pair of headlights emerging from the di
 <</if>>
 
 :: thumb up
+<<audio "pullup" volume 0 fadeto 1.00>>\
 <html>
 <head>
 <style type="text/css">
@@ -179,6 +185,7 @@ You decide to go with your gut and quickly think of a lie to get this man to dri
 The man just stares at you, then simply murmurs, "No problem." and speeds off into the [[darkness]].
 
 :: darkness
+<<audio "pulloff" volume 0.25 play>>\
 <html>
 <head>
 <style type="text/css">
@@ -205,6 +212,7 @@ You stand there for what seems like forever before the next pair of headlights e
 [[Put your thumb up|thumb up picky]]
 
 :: thumb up picky
+<<audio "pass" volume 0.5 play>>\
 <html>
 <head>
 <style type="text/css">
@@ -260,6 +268,7 @@ You check your phone to see what time it is and you see that an hour and 10 minu
 As you begin to turn and head back to the gas station in shame, you hear the vehicle coming from the other direction [[slow down]].
 
 :: slow down
+<<audio "pullup" volume 0 fadeto 1.00>>\
 <html>
 <head>
 <style type="text/css">

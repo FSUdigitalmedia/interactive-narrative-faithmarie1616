@@ -12,9 +12,20 @@ Hitchhiking
 <<set $carspassed to 0>>
 <<set $thumbup to 0>>
 <<set $numberofcars to random(10)>>
+<<cacheaudio "gasstation" "../assets/gas station music.mp3">>
+<<cacheaudio "rain" "../assets/rain.mp4">>
+<<cacheaudio "door" "../assets/door open.mp4">>
+<<cacheaudio "outside" "../assets/outside.mp4">>
+<<cacheaudio "pass" "../assets/car pass.mp4">>
+<<cacheaudio "pullup" "../assets/car pull up.mp4">>
+<<cacheaudio "pulloff" "../assets/car pull off.mp4">>
+<<cacheaudio "openclosedoor" "../assets/open and close door.mp4">>
+<<cacheaudio "insidecar" "../assets/driving inside car.mp4">>
+<<cacheaudio "opendoor" "../assets/car door open.mp4">>
+<<cacheaudio "carrain" "../assets/rain in car.mp4">>
 
 :: UserScript[script]
-UIBar.destroy()
+/* UIBar.destroy()*/
 
 :: Start 
 <html>
@@ -36,11 +47,13 @@ body{
 </head>
 </html>
 
-!HITCHHIKING
+!<center>HITCHHIKING</center>
 
-[[New Game]]
+<center>[[New Game]]</center>
 
 :: New Game
+<<audio "gasstation" volume 1.00 loop play>>\
+<<audio "rain" volume 0.25 loop play>>\
 <html>
 <head>
 <style type="text/css">
@@ -130,6 +143,8 @@ p {
 <p>When you're 7 minutes over and still see no sign of your coworker, you try and phone your manager only to no avail. You find yourself stuck, [[unable to move]].</p>\
 
 :: unable to move
+<<audio "rain" volume 0.25 fadeout>>\
+<<audio "door" time 20 play>>\
 <html>
 <head>
 <style type="text/css">
@@ -159,6 +174,7 @@ p {
 <p>As you're trying to take care of this family, you can't help but think of the possible options if you miss your bus. As the SUV pulls off you look at the clock and realize that you've been working 12 minutes over, your [[heart drops]].</p>\
 
 :: heart drops
+<<audio "door" volume 1.00 time 5 play>>\
 <html>
 <head>
 <style type="text/css">
