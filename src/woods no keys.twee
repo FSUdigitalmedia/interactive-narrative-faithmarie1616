@@ -1,6 +1,7 @@
 :: no keys
 <<audio "opendoor" play>>\
 <<audio "outside" volume 0 fadeto 0.75>>\
+<<audio "outside" loop play>>\
 <html>
 <head>
 <style type="text/css">

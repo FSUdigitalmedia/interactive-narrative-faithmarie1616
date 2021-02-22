@@ -25,7 +25,7 @@ Hitchhiking
 <<cacheaudio "carrain" "../assets/rain in car.mp4">>
 
 :: UserScript[script]
-/* UIBar.destroy()*/
+UIBar.stow()
 
 :: Start 
 <html>
